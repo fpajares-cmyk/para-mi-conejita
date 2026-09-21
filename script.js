@@ -21,8 +21,6 @@ window.addEventListener('DOMContentLoaded', function () {
     'Contigo mis días son mucho más bonitos',
     'Te amo muchísimo, mi conejita ❤️',
     'Somos un par de consentidos :3',
-    'Quiero seguir creando recuerdos bonitos contigo',
-    'Porque para mí, tú eres mi mundo 💛',
     '¡Feliz 21 de septiembre, mi conejita! 🌻',
     'Te amo... por la garrita :3 ❤️'
   ];
