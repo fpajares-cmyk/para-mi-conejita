@@ -15,16 +15,16 @@ window.addEventListener('DOMContentLoaded', function () {
   // =========================================================
   const messages = [
     'Esta flor es para ti, mi conejita 💛',
-    'Quiero recordarte lo mucho que significas para mí.',
-    'Gracias por todo lo que haces por mí.',
-    'Gracias por cada momento, cada sonrisa y cada detalle.',
-    'Contigo mis días son mucho más bonitos.',
+    'Quiero recordarte lo mucho que significas para mí',
+    'Gracias por todo lo que haces por mí',
+    'Gracias por cada momento, cada sonrisa y cada detalle',
+    'Contigo mis días son mucho más bonitos',
     'Te amo muchísimo, mi conejita ❤️',
-    'Eres una persona muy especial en mi vida.',
-    'Quiero seguir creando recuerdos bonitos contigo.',
-    'Porque para mí, tú eres mi mundo. 💛',
+    'Somos un par de consentidos :3',
+    'Quiero seguir creando recuerdos bonitos contigo',
+    'Porque para mí, tú eres mi mundo 💛',
     '¡Feliz 21 de septiembre, mi conejita! 🌻',
-    'Te amo hoy, mañana y siempre. ❤️'
+    'Te amo... por la garrita :3 ❤️'
   ];
 
   // =========================================================
