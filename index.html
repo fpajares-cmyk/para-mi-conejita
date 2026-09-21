@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Para mi conejita 💛</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <canvas id="galaxy-canvas"></canvas>
+
+  <main id="main-content">
+    <div id="start-btn-container">
+      <button id="start-btn" type="button" aria-label="Iniciar sorpresa"></button>
+      <p class="hint">Haz clic para comenzar 💛</p>
+    </div>
+
+    <section class="wrapper" aria-live="polite">
+      <div class="flower-zone" aria-hidden="true">
+        <div class="flower"></div>
+      </div>
+
+      <div class="content-zone">
+        <div class="flower-message"></div>
+
+        <div id="photo-box" class="photo-box" aria-label="Nuestros recuerdos">
+          <img id="love-photo" src="foto1.jpg" alt="Nuestro recuerdo" />
+        </div>
+      </div>
+    </section>
+
+    <!--
+      IMPORTANTE:
+      Coloca tu canción en la misma carpeta y llámala musica.mp3.
+      Si tiene otro nombre, cambia "musica.mp3" aquí.
+    -->
+    <audio id="bg-music" preload="metadata">
+      <source src="musica.mp3" type="audio/mpeg" />
+      Tu navegador no soporta audio HTML5.
+    </audio>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
