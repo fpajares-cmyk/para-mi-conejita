@@ -33,10 +33,10 @@ window.addEventListener('DOMContentLoaded', function () {
   // Puedes agregar o quitar nombres.
   // =========================================================
   const photos = [
-    'foto1.jpg',
-    'foto2.jpg',
-    'foto3.jpg',
-    'foto4.jpg'
+    'foto1.jpg.jpeg',
+    'foto2.jpg.jpeg',
+    'foto3.jpg.jpeg',
+    'foto4.jpg.jpeg'
   ];
 
   // =========================================================
